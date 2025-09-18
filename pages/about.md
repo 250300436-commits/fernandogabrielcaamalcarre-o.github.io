@@ -10,5 +10,4 @@ permalink: /about/
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thomas A. Anderson" width="200">
 
 # About
-
 mi sitio web digamos que medio personalizada 
